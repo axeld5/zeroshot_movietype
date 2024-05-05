@@ -7,7 +7,11 @@ Method to perfrom 0-shot movie type classification from IMDB dataset.
 - Make a taxonomy of movie types.
 - Generate description for each movie type of said taxonomy
 
-System Prompt: ```You are an AI assistant tasked to make description of movie types to help classify reviews for a movie type. The goal is to pair those descriptions with viewer reviews to find which type they correspond the most.```
+System Prompt: 
+
+```
+You are an AI assistant tasked to make description of movie types to help classify reviews for a movie type. The goal is to pair those descriptions with viewer reviews to find which type they correspond the most.
+```
 
 User prompt: 
 
