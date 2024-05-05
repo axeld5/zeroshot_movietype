@@ -41,3 +41,9 @@ Documentary </chosen_type>. Be aware of the other topics, and make sure that the
 
 Output:
 ```
+
+## Pairing of taxonomies with outputs
+
+In order to pair taxonomies with outputs, embedding from openai is used on each sample and opus-based description.
+
+L2-distance is then applied to find closest movie_type embedding, which is chosen.
